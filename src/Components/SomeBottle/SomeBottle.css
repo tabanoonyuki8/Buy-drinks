@@ -2,7 +2,7 @@
     border: 3px solid rgb(220, 85, 61);
     margin: 15px;
     padding: 15 px;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: rgb(182, 239, 239);
 }
 .bottle img{
@@ -11,3 +11,7 @@
     
 
 }
+.bottle-btn{
+    margin: 15px;
+    background-color: rgb(42, 123, 245);
+    color: rgb(225, 209, 209);
